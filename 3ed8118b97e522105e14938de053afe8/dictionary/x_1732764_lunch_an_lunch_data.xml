@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2eba91cf97e522105e14938de053af9a" label="Lunch data" max_length="40" name="x_1732764_lunch_an_lunch_data" type="collection">
+        <element label="Vegetables" max_length="40" name="vegetables" type="boolean"/>
+        <element label="Carbohydrates" max_length="40" name="carbohydrates" type="boolean"/>
+        <element label="Protein" max_length="40" name="protein" type="boolean"/>
+        <element label="Amount" max_length="32" name="amount" reference="x_1732764_lunch_an_lunch_amount" type="reference"/>
+        <element label="What did you eat" max_length="40" name="what_did_you_eat" type="string"/>
+        <element label="Price" max_length="40" name="price" type="integer"/>
+        <element label="Is eat" max_length="40" name="is_eat" type="boolean"/>
+        <element label="Note" max_length="40" name="note" type="string"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <index name="index">
+            <element name="amount"/>
+        </index>
+    </element>
+</database>
