@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="2eba91cf97e522105e14938de053af9a" label="Lunch data" max_length="40" name="x_1732764_lunch_an_lunch_data" type="collection">
+        <element label="Created by user" max_length="32" name="created_by_user" reference="sys_user" type="reference"/>
         <element label="Vegetables" max_length="40" name="vegetables" type="boolean"/>
         <element label="Carbohydrates" max_length="40" name="carbohydrates" type="boolean"/>
         <element label="Protein" max_length="40" name="protein" type="boolean"/>
@@ -11,6 +12,9 @@
         <element label="Date" max_length="40" name="date" type="glide_date"/>
         <index name="index">
             <element name="amount"/>
+        </index>
+        <index name="index2">
+            <element name="created_by_user"/>
         </index>
     </element>
 </database>

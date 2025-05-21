@@ -4,13 +4,13 @@
             <element>date</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>6f51610b972922105e14938de053af7d</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>04962d8f972922105e14938de053af14</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>e351610b972922105e14938de053af7e</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>88962d8f972922105e14938de053af14</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>is_eat</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>6b51610b972922105e14938de053af7e</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>00962d8f972922105e14938de053af15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.end_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>ef51610b972922105e14938de053af7e</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>84962d8f972922105e14938de053af15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>what_did_you_eat</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>6751610b972922105e14938de053af7f</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>0c962d8f972922105e14938de053af15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>price</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>eb51610b972922105e14938de053af7f</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>80962d8f972922105e14938de053af16</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>.begin_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>6351610b972922105e14938de053af80</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>08962d8f972922105e14938de053af16</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>carbohydrates</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>e751610b972922105e14938de053af80</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>8c962d8f972922105e14938de053af16</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>vegetables</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>6f51610b972922105e14938de053af80</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>04962d8f972922105e14938de053af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>.split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>e351610b972922105e14938de053af81</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>88962d8f972922105e14938de053af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>protein</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>6b51610b972922105e14938de053af81</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>00962d8f972922105e14938de053af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>.end_split</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>ef51610b972922105e14938de053af81</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>84962d8f972922105e14938de053af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>amount</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>6751610b972922105e14938de053af82</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>0c962d8f972922105e14938de053af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>note</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 01:11:21</sys_created_on>
-            <sys_id>eb51610b972922105e14938de053af82</sys_id>
+            <sys_created_on>2025-05-21 01:34:03</sys_created_on>
+            <sys_id>80962d8f972922105e14938de053af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1732764_lunch_an_lunch_data" sys_domain="global" view="Default view">7aba91cf97e522105e14938de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 01:11:21</sys_updated_on>
+            <sys_updated_on>2025-05-21 01:34:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
