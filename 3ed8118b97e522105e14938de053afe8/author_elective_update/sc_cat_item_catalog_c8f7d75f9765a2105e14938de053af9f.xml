@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Sample lunch ">c4f7d75f9765a2105e14938de053af9d</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 04:27:52</sys_created_on>
+        <sys_id>c8f7d75f9765a2105e14938de053af9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Sample lunch </sys_name>
+        <sys_package display_value="Lunch analysis" source="x_1732764_lunch_an">3ed8118b97e522105e14938de053afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lunch analysis">3ed8118b97e522105e14938de053afe8</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c8f7d75f9765a2105e14938de053af9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 04:27:52</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lunch analysis">3ed8118b97e522105e14938de053afe8</application>
+        <file_path/>
+        <instance_id>03051c4feb29a610e9bbfddacad0cd76</instance_id>
+        <instance_name>dev348707</instance_name>
+        <name>sc_cat_item_catalog_c8f7d75f9765a2105e14938de053af9f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Sample lunch ">c4f7d75f9765a2105e14938de053af9d</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-22 04:27:52</sys_created_on><sys_id>c8f7d75f9765a2105e14938de053af9f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Sample lunch </sys_name><sys_package display_value="Lunch analysis" source="x_1732764_lunch_an">3ed8118b97e522105e14938de053afe8</sys_package><sys_policy/><sys_scope display_value="Lunch analysis">3ed8118b97e522105e14938de053afe8</sys_scope><sys_update_name>sc_cat_item_catalog_c8f7d75f9765a2105e14938de053af9f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-22 04:27:52</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-263385505</payload_hash>
+        <record_name>Service Catalog.Sample lunch </record_name>
+        <reverted_from/>
+        <source>291dd543972922105e14938de053af50</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 04:27:52</sys_created_on>
+        <sys_id>8cf7d75f9765a2105e14938de053afa3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f63f68680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 04:27:52</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>80f7d75f7865a210d66e3d38b2ec6ba3</update_guid>
+        <update_guid_history>80f7d75f7865a210d66e3d38b2ec6ba3:-263385505</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Sample lunch ">64a89b9f9765a2105e14938de053af48</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 04:30:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1a41c42b68a1435c881fdb22ef39fc01</sys_id>
+        <sys_metadata>c8f7d75f9765a2105e14938de053af9f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Sample lunch </sys_name>
+        <sys_package display_value="Lunch analysis" source="x_1732764_lunch_an">3ed8118b97e522105e14938de053afe8</sys_package>
+        <sys_parent display_value="">c4f7d75f9765a2105e14938de053af9d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Lunch analysis">3ed8118b97e522105e14938de053afe8</sys_scope>
+        <sys_scope_delete display_value="">545b06d45885435c96b50894e8f3fd90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_c8f7d75f9765a2105e14938de053af9f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_c8f7d75f9765a2105e14938de053af9f">8cf7d75f9765a2105e14938de053afa3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 04:30:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

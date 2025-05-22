@@ -9,7 +9,7 @@
         <element label="Price" max_length="40" name="price" type="integer"/>
         <element label="Is eat" max_length="40" name="is_eat" type="boolean"/>
         <element label="Note" max_length="40" name="note" type="string"/>
-        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
         <index name="index">
             <element name="amount"/>
         </index>
